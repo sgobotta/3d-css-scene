@@ -1,6 +1,6 @@
 {
-  "name": "3d-css-scene",
-  "version": "1.0.0",
+  "name": "3d-css-scene-test",
+  "version": "0.0.0",
   "description": "",
   "main": "dist/bundle.js",
   "scripts": {
